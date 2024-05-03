@@ -1,0 +1,97 @@
+nav {
+    background-color: rgb(33, 32, 32);
+    width: 100%;
+    height: 50px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.home {
+    margin-left: 50px;
+    margin-right: 25px;
+    display: flex;
+}
+.tabs {
+    margin-right: 25px;
+    display: flex;
+}
+.logo {
+    margin-left: 25px;
+    display: flex;
+}
+.nav-bar-content {
+    display: flex;
+}
+.content {
+    height: 800px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.dashboard {
+    height: 50%;
+    margin: 10px;
+}
+.todos {
+    height: 50%;
+    margin: 10px;
+}
+.title {
+    font-size: 30px;
+    font-weight: bold;
+}
+th {
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+}
+td {
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+    
+}
+.main-row {
+    font-weight: bold;
+}
+#odd {
+    background-color: rgb(194, 194, 194);
+    opacity: 0.7;
+}
+.todo-content {
+    display: flex;
+    flex-direction: column;
+}
+.div1 {
+    background-color: green;
+    opacity: 0.5;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.div4 {
+    background-color: lightblue;
+    opacity: 0.5;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.div3 {
+    background-color: red;
+    opacity: 0.5;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.div2 {
+    background-color: yellow;
+    opacity: 0.5;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
